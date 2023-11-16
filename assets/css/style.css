@@ -80,6 +80,7 @@ nav {
 }
 
 main {
+  margin-top: 47px;
   background-color: lightblue;
   /*Make main element take up and surplus space and push the footer down*/
   flex: 1 0 auto;
