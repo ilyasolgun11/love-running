@@ -216,6 +216,7 @@ main {
   background-position: 75%;
   padding: 20px 10% 0 10%;
   flex-grow: 1;
+  height: 100vh;
 }
 
 #signup-form {
