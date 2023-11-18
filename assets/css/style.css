@@ -330,6 +330,7 @@ main {
 
   /* Form */
   #signup {
+    height: 100vh;
     background-position: center;
     position: relative;
   }
